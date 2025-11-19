@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var IsSuccess = false
+    @State var isSuccess = false
 }
 
 // MARK: - View Implementation
