@@ -9,6 +9,10 @@ import SwiftUI
 
 struct ContentView: View {
     @State var IsSuccess = false
+}
+
+// MARK: - View Implementation
+extension ContentView {
     var body: some View {
         VStack {
             Image(systemName: "globe")
